@@ -1,0 +1,7 @@
+C:\Users\Laptop\source\repos\celsius_fahren\celsius_fahren\obj\Debug\celsius_fahren.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\celsius_fahren\celsius_fahren\obj\Debug\celsius_fahren.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\celsius_fahren\celsius_fahren\bin\Debug\celsius_fahren.exe.config
+C:\Users\Laptop\source\repos\celsius_fahren\celsius_fahren\bin\Debug\celsius_fahren.exe
+C:\Users\Laptop\source\repos\celsius_fahren\celsius_fahren\bin\Debug\celsius_fahren.pdb
+C:\Users\Laptop\source\repos\celsius_fahren\celsius_fahren\obj\Debug\celsius_fahren.exe
+C:\Users\Laptop\source\repos\celsius_fahren\celsius_fahren\obj\Debug\celsius_fahren.pdb
