@@ -1,0 +1,7 @@
+C:\Users\Laptop\Documents\Kool\prog_alused\celsius_fahren\cf_func\obj\Debug\cf_func.csprojAssemblyReference.cache
+C:\Users\Laptop\Documents\Kool\prog_alused\celsius_fahren\cf_func\obj\Debug\cf_func.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\Kool\prog_alused\celsius_fahren\cf_func\bin\Debug\cf_func.exe.config
+C:\Users\Laptop\Documents\Kool\prog_alused\celsius_fahren\cf_func\bin\Debug\cf_func.exe
+C:\Users\Laptop\Documents\Kool\prog_alused\celsius_fahren\cf_func\bin\Debug\cf_func.pdb
+C:\Users\Laptop\Documents\Kool\prog_alused\celsius_fahren\cf_func\obj\Debug\cf_func.exe
+C:\Users\Laptop\Documents\Kool\prog_alused\celsius_fahren\cf_func\obj\Debug\cf_func.pdb

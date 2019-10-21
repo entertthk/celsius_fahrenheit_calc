@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\cf_func"
   ],
-  "SelectedNode": "\\Program.cs",
+  "SelectedNode": "\\cf_func\\cf_func.csproj",
   "PreviewInSolutionExplorer": false
 }

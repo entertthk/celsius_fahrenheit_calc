@@ -12,8 +12,9 @@ namespace celsius_fahren
         {
 
             Start:
+            string answer;
             Console.WriteLine("Do you want to convert to celsius or fahrenheit (c, f): ");
-            string answer = Console.ReadLine();
+            answer = Console.ReadLine();
 
             switch(answer)
             {
